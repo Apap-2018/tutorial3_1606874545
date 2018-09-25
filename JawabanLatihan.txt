@@ -1,0 +1,21 @@
+Arvin Raditya Niardi 
+1606874545
+APAP Kelas A
+
+Pertanyaan 1​: apakah hasilnya? Jika error, tuliskan penjelasan Anda. 
+Tidak error, “data berhasil ditambahkan”
+
+Pertanyaan 2: ​apakah hasilnya? Jika error, tuliskan penjelasan Anda.
+Error karena tidak ada amount padahal required = ture
+
+Pertanyaan 3​: apakah data Car tersebut muncul? Jika tidak, mengapa?
+Muncul
+
+Pertanyaan 4​: apakah data Car tersebut muncul? Jika tidak, mengapa?
+Error karena sebelumnya belum pernah menambahkan mobil ke model
+
+Pertanyaan 5​: apakah data Car tersebut muncul? 
+Muncul
+
+Pertanyaan 6​: apakah data Car tersebut muncul? 
+Muncul
